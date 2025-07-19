@@ -7,11 +7,11 @@ It can be used for enhancing security camera footage, improving drone images, or
 
 ```
 ├── Zero-DCE
-├── Zero-DCE_code
-|   └── lowlight_test.py
-│   └── data
-│       └── test_data
-│           └── ExDark_flat
+|   └── Zero-DCE_code
+|       └── lowlight_test.py
+│       └── data
+│           └── test_data
+│               └── ExDark_flat
 |
 ├── snapshots
 │   └── epoch99.pth
